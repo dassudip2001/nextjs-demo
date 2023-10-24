@@ -8,11 +8,8 @@ This long video was designed to give you an indepth understanding about latest n
 - mongodb
 - mailtrap
 
-![Course Image](./nextjs.png)
 
----
-Available on my youtube channel
-[Youtube channel link](https://www.youtube.com/@HiteshChoudharydotcom)
+
 
 ## Getting Started
 
